@@ -1,4 +1,5 @@
 OUTPUT:
+
 Q1:
 
 <img width="987" height="510" alt="image" src="https://github.com/user-attachments/assets/80fbfd00-6393-472b-b424-5530e35ba58f" />
